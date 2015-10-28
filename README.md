@@ -3,7 +3,8 @@ react-native 开发资源
 
 
 **第三方库**
-
+  - 导航
+    - [ex-navigator](https://github.com/exponentjs/ex-navigator)
   - 下拉刷新
     - [react-native-refresher](https://github.com/syrusakbary/react-native-refresher)
     - [react-native-refreshable-listview](https://github.com/jsdf/react-native-refreshable-listview)
