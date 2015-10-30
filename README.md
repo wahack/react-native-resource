@@ -3,6 +3,8 @@ react-native 开发资源
 
 
 **第三方库**
+  - 动画
+    - [react-native-animatable](https://github.com/oblador/react-native-animatable)
   - 导航
     - [ex-navigator](https://github.com/exponentjs/ex-navigator)
   - 下拉刷新
