@@ -11,7 +11,8 @@ react-native 开发资源
     - [react-native-refresher](https://github.com/syrusakbary/react-native-refresher)
     - [react-native-refreshable-listview](https://github.com/jsdf/react-native-refreshable-listview)
         A pull-to-refresh ListView which shows a loading spinner while your data reloads
-  
+  - 本地数据管存储、持久化
+    - [realm](https://realm.io/docs/react-native/latest/)
 
 **第三方服务(app托管、远程更新)**
   - [AppHub](https://apphub.io/)
