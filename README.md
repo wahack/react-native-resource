@@ -16,7 +16,7 @@ react-native 开发资源
 **第三方服务(app托管、远程更新)**
   - [AppHub](https://apphub.io/)
   - [CodePush](http://microsoft.github.io/code-push/)
-  - 
+  - [hockeyapp](http://hockeyapp.net/features/) : distribute beta versions of apps without using the app store
   
 **demo**
 
