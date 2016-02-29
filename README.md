@@ -19,6 +19,8 @@ react-native 开发资源
   - [CodePush](http://microsoft.github.io/code-push/)
   - [hockeyapp](http://hockeyapp.net/features/) : distribute beta versions of apps without using the app store
   
+**工具编辑器**
+  - [nuclide]（http://nuclide.io/）
 **demo**
 
   - [iOS's Stocks App](https://github.com/7kfpun/FinanceReactNative)
