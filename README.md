@@ -21,6 +21,7 @@ react-native 开发资源
   
 **工具编辑器**
   - [nuclide]（http://nuclide.io/）
+  - [deco-ide] (https://github.com/decosoftware/deco-ide)
 
 **demo**
 
